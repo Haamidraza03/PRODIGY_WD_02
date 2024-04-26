@@ -9,8 +9,8 @@ body {
 #stopwatch {
     font-size: 48px;
     margin-bottom: 20px;
-    height: 380px;
-    width: 380px;
+    height: 350px;
+    width: 350px;
     box-shadow: 1px 1px 20px #ffc400 !important;
 }
 
@@ -36,7 +36,7 @@ body {
     border-radius: 25px;
     color: black;
     font-weight: 600;
-    font-size: 40px;
+    font-size: 38px;
     background-color: #ffd035;
 }
 
